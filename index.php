@@ -4,8 +4,9 @@
     echo "Dit is een nieuwe regel code<hr>";
     echo "Dit is weer een nieuwe regel code<hr>";
     echo "Er is weer een nieuwe les begonnen";
+    echo "Het is woensdag";
 
     $tekst = new Text();
 
     echo $tekst->wattext;
-?>
+?> 
